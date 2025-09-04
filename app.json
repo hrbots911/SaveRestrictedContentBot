@@ -14,14 +14,14 @@
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
             "value": ""
-        },
+        },9605646
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "822d45aa548a53682a458efa1933e4c9"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "8137930682:AAEQBfcoBTvqrwrvYpKWSEB4SGWDR2wphxQ"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
@@ -29,11 +29,11 @@
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "8358169944"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "hrsave1625"
         }
     },
     "buildpacks": [
